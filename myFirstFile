@@ -1,0 +1,6 @@
+name = "jaydn"
+if name != "jaydn":
+    print("sorry man")
+
+else :
+    print ("good man")

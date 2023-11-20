@@ -1,0 +1,7 @@
+Purpose: converts a float to a string
+# Example:
+#   Call:    float_to_string(1.0)
+#   Returns: "1.0"
+def float_to_string(float):
+   return float (str(1.0))
+print ("float_to_string")
